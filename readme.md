@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ```
 
 ## Repository structure
-We select some important files for detailed description.
+We select some important files for detailed description. You need to put project5 data in the current directory and name it as dataset. You need to download bert_uncased from this link: https://pan.baidu.com/s/1cwXipaW2_coEC-lG5NGhKw?pwd=4jk8 and the key is 4jk8
 
 ```python
 |-- dataset # the datasets for the lab
