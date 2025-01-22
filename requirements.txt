@@ -1,0 +1,7 @@
+torch==2.5.1+cu124
+transformers==4.25.1  # Based on the usage of BertTokenizer and BertModel
+Pillow==11.0.0  # PIL is Pillow
+scikit-learn==1.2.0  # Adjust the version if needed based on your setup
+matplotlib==3.9.2
+torchvision==0.20.1+cu124
+pandas==2.2.3
